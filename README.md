@@ -17,6 +17,5 @@ No drawing experience needed...
 
 Just fill in your dimensions from a drawing...
 
-<img width="735" alt="create taper" src="https://github.com/ChrisC-TabCam/Conversational-Lathe-CAM/assets/141339715/e1638d1c-4d41-4c77-a262-2a17b5c1d54b">
+<img width="740" alt="CLC Cam" src="https://github.com/ChrisC-TabCam/Conversational-Lathe-CAM/assets/141339715/89812209-c39e-4072-bf59-41e1358a802d">
 
-<img width="587" alt="simulation" src="https://github.com/ChrisC-TabCam/Conversational-Lathe-CAM/assets/141339715/36200842-89d9-4783-ba06-5497dc2b923b">
