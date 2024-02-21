@@ -1,6 +1,4 @@
 # Conversational-Lathe-CAM
-Coming very soon....
-
 After searching the Internet for a simple to use Lathe Cam and not finding one, I decided to write my own.
 
 This is the first version of this software.
